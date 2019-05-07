@@ -1,0 +1,23 @@
+{
+  "element": "",
+  "help": "",
+  "hint": "",
+  "label": "GIT PR application Table",
+  "language": "en",
+  "name": "x_317910_git_pr_ap_git_pr_application_table",
+  "plural": "GIT PR application Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-07 14:46:36",
+  "sys_id": "c9c8bb0ddb153300c9fe7b3868961988",
+  "sys_mod_count": 0,
+  "sys_name": "GIT PR application Table",
+  "sys_package": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_policy": "",
+  "sys_scope": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_update_name": "sys_documentation_x_317910_git_pr_ap_git_pr_application_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-07 14:46:36",
+  "url": "",
+  "url_target": ""
+}

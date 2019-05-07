@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": "",
+  "license_model": "none",
+  "license_roles": "",
+  "name": "x_317910_git_pr_ap_git_pr_application_table",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": "",
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-07 14:46:36",
+  "sys_id": "11c8bb0ddb153300c9fe7b3868961994",
+  "sys_mod_count": 0,
+  "sys_name": "x_317910_git_pr_ap_git_pr_application_table",
+  "sys_package": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_policy": "",
+  "sys_scope": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_update_name": "ua_table_licensing_config_11c8bb0ddb153300c9fe7b3868961994",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-07 14:46:36"
+}
