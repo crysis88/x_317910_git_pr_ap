@@ -1,0 +1,17 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-07 14:46:35",
+  "sys_id": "01c8bb0ddb153300c9fe7b3868961964",
+  "sys_mod_count": 0,
+  "sys_name": "x_317910_git_pr_ap_git_pr_application_table.x_317910_git_pr_ap.user",
+  "sys_package": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_policy": "",
+  "sys_scope": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_security_acl": "c1c8bb0ddb153300c9fe7b3868961961",
+  "sys_update_name": "sys_security_acl_role_01c8bb0ddb153300c9fe7b3868961964",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-07 14:46:35",
+  "sys_user_role": "09c8bb0ddb153300c9fe7b3868961952",
+  "transaction_id": ""
+}

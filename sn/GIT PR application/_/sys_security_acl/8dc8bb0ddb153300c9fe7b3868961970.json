@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": "",
+  "description": "Default access control on x_317910_git_pr_ap_git_pr_application_table",
+  "name": "x_317910_git_pr_ap_git_pr_application_table",
+  "operation": "delete",
+  "script": "",
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-07 14:46:35",
+  "sys_id": "8dc8bb0ddb153300c9fe7b3868961970",
+  "sys_mod_count": 0,
+  "sys_name": "x_317910_git_pr_ap_git_pr_application_table",
+  "sys_package": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_policy": "",
+  "sys_scope": "c1c83bc9db153300c9fe7b38689619b1",
+  "sys_update_name": "sys_security_acl_8dc8bb0ddb153300c9fe7b3868961970",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-07 14:46:35",
+  "type": "record"
+}
